@@ -1,0 +1,15 @@
+For both sticks:
+
+Buy:
+2 sets of grips with switches, trigger, button, spring
+8x M4 x 10mm Length bolt (8mm, 12mm probably fine too)
+2x M4 x 0.7-Pitch 20mm Length Coupling Nut
+4x M3 x 12mm screw with washer (M4 washer pairs well with counter-sunk bolt)
+
+Print:
+4x flight stick adapters
+2x thumb button
+2x trigger spacer
+4x microswitch spacer
+2x trigger support
+1x grips cutting guide
